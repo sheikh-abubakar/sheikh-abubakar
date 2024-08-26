@@ -1,4 +1,4 @@
-<h1 align="left">Greetings 👋,I'm I'm Muhammad Abubakar</h1>
+<h1 align="left">Greetings 👋,I'm  Muhammad Abubakar</h1>
 <h3 align="left">A passionate frontend developer from Pakistan</h3>
 
 <!--<img align="right" alt="my-avatar" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif">-->
@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikh-abubakar" alt="sheikh-abubakar" /></a> </p>
 <h2 align="left">💫 What I'm Doing,</h2>
-- 🔭 I’m currently working [as a Co-Founder & COO at Mind Expanders](https://www.mindexpanders.org/)
+- 🔭 I’m currently working as a Co-Founder & COO at [Mind Expanders](https://www.mindexpanders.org/)
 
 - 👀 I’m interested in **Fun Science**
 
@@ -33,7 +33,7 @@
 
 - 📄 Know about my experiences [https://abubakar.mindsters.org/](https://abubakar.mindsters.org/)
 
-- ⚡ Fun fact **I have a good sense oh humour**
+- ⚡ Fun fact **I have a good sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
