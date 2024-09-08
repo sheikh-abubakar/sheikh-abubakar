@@ -1,4 +1,4 @@
-<h1 align="left">Greetings 👋,I'm I'm Muhammad Abubakar</h1>
+<h1 align="left">Greetings 👋,I'm Muhammad Abubakar</h1>
 <h3 align="left">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-abubakar&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-abubakar" /> </p>
