@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Co-Founder & COO at Mind Expanders<br><br>👀 I’m interested in Fun Science<br><br>🌱 I’m currently learning Frontend Web Development<br><br>👨‍💻 Step into My World at https://abubakar.mindexpanders.org/<br><br>👨‍💻 All of my projects are available at https://abubakar.mindexpanders.org//<br><br>📝 I regularly write articles on https://abubakar.mindexpanders.org//<br><br>💬 Ask me about C,C++,Html,CSS, JS<br><br>📫 How to reach me abubakarjavaid034@gmail.com<br><br>📄 Know about my experiences https://abubakar.mindexpanders.org//<br><br>⚡ Fun fact I have a good sense of humour
+🔭 I’m currently working as a Co-Founder & COO at Mind Expanders<br><br>👀 I’m interested in Fun Science<br><br>🌱 I’m currently learning Frontend Web Development<br><br>👨‍💻 Step into My World at https://abubakar.mindexpanders.org/<br><br>👨‍💻 All of my projects are available at https://abubakar.mindexpanders.org//<br><br>📝 I regularly write articles on https://abubakar.mindexpanders.org/<br><br>💬 Ask me about C,C++,Html,CSS, JS<br><br>📫 How to reach me abubakarjavaid034@gmail.com<br><br>📄 Know about my experiences https://abubakar.mindexpanders.org/<br><br>⚡ Fun fact I have a good sense of humour
 
 
 ## 🌐 Socials:
