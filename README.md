@@ -2,9 +2,10 @@
 <br><br>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0D1117&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;WordPress+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=%23007ACC&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;&random=7" alt="Typing SVG" />
   </a>
 </p>
+
 <br><br>👀 I’m interested in Fun Science<br><br>👨‍💻 Step into My World at https://abubakar.mindexpanders.org/<br><br>👨‍💻 All of my projects are available at https://abubakar.mindexpanders.org//<br><br>📝 I regularly write articles on https://abubakar.mindexpanders.org/<br><br>💬 Ask me about React, JavaScript, Typescript, tailwind CSS, Nodejs...<br><br>📫 How to reach me abubakarjavaid034@gmail.com<br><br>📄 Know about my experiences https://abubakar.mindexpanders.org/<br><br>⚡ Fun fact I have a good sense of humour
 
 
