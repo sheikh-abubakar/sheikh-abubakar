@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<br><br>👀 I’m interested in Fun Science<br><br>👨‍💻 Step into My World at [portfolio](https://my-portfolio-sand-two-cp9garpwvi.vercel.app/)<br><br>👨‍💻 All of my projects are available at [Here](https://my-portfolio-sand-two-cp9garpwvi.vercel.app/)<br><br>📝 I regularly write articles on https://abubakar.mindexpanders.org/<br><br>💬 Ask me about React, JavaScript, Typescript, tailwind CSS, Nodejs...<br><br>📫 How to reach me abubakarjavaid034@gmail.com<br><br>📄 Know about my experiences https://abubakar.mindexpanders.org/<br><br>⚡ Fun fact I have a good sense of humour
+<br><br>👀 I’m interested in Fun Science<br><br>👨‍💻 Step into My World at [portfolio](https://my-portfolio-sand-two-cp9garpwvi.vercel.app/)<br><br>👨‍💻 All of my projects are available at [Here](https://my-portfolio-sand-two-cp9garpwvi.vercel.app/)<br><br>💬 Ask me about React, JavaScript, Typescript, tailwind CSS, Nodejs...<br><br>📫 How to reach me abubakarjavaid034@gmail.com<br><br>📄 Know about my experiences https://abubakar.mindexpanders.org/<br><br>⚡ Fun fact I have a good sense of humour
 
 
 ## 🌐 Socials:
